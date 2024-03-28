@@ -14,9 +14,12 @@
 * Requisitos não funcionais
   
 **5. Tecnologias utilizadas**
-Utilizado HTML, CSS, JS,PHP
+<br>Utilizado HTML, CSS, JS,PHP
 
 **6. Cronograma para desenvolvimento**
+03/2023: Listagem dos Requisitos<br>
+04/2023: Modelagem do Banco de Dados<br>
+05 e 06/2023: Desenvolvimento e Teste da solução<br>
 
 
 ## Sobre a solução
