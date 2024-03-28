@@ -14,6 +14,7 @@
 * Requisitos não funcionais
   
 **5. Tecnologias utilizadas**
+Utilizado HTML, CSS, JS,PHP
 
 **6. Cronograma para desenvolvimento**
 
