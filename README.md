@@ -4,7 +4,7 @@
 <h3>Autor: Caetano Camargo</h3>
 
 **1. Nome da solução**
-
+Caetano Importados
 **2. Logotipo da solução**
    
 **3. Cenário**
@@ -17,7 +17,7 @@
 <br>Utilizado HTML, CSS, JS,PHP
 
 **6. Cronograma para desenvolvimento**
-03/2023: Listagem dos Requisitos<br>
+<br>03/2023: Listagem dos Requisitos<br>
 04/2023: Modelagem do Banco de Dados<br>
 05 e 06/2023: Desenvolvimento e Teste da solução<br>
 
