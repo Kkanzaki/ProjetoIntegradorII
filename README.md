@@ -4,7 +4,7 @@
 <h3>Autor: Caetano Camargo</h3>
 
 **1. Nome da solução**
-Caetano Importados
+<br>Caetano Importados<br>
 **2. Logotipo da solução**
    
 **3. Cenário**
